@@ -1,4 +1,4 @@
-# Tuition Reimbursement Management System(TRMS)
+# Tuition Reimbursement Management System (TRMS)
 
 ## Project Description:
 The TRMS allows users in an organization, business, or structured management system to manage employee tuition riembursements. The application allows for different 
